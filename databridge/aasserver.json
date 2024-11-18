@@ -1,0 +1,36 @@
+[ {
+  "uniqueId" : "a0fe8bc869602673f1b793dc6aa4be90101d4576aebdafae824e599de2fdbbf9",
+  "submodelEndpoint" : "http://aas-env:8081/submodels/aHR0cHM6Ly9leGFtcGxlLmNvbS9pZHMvc20vMDAwMl8wMTIyXzIwNDJfNjI1Mw",
+  "idShortPath" : "Var1",
+  "api" : "DotAAS-V3"
+}, {
+  "uniqueId" : "a176d0f717ca68c7217e66b064b84261758c7efcc6c05d9210f1b9c8405ab0d0",
+  "submodelEndpoint" : "http://aas-env:8081/submodels/aHR0cHM6Ly9leGFtcGxlLmNvbS9pZHMvc20vMDAwMl8wMTIyXzIwNDJfNjI1Mw",
+  "idShortPath" : "Var2",
+  "api" : "DotAAS-V3"
+}, {
+  "uniqueId" : "1eb86d10b97315c1c4794f506ebd3edd1be1ca8ddc0c02199791d3746f530a29",
+  "submodelEndpoint" : "http://aas-env:8081/submodels/aHR0cHM6Ly9leGFtcGxlLmNvbS9pZHMvc20vMDAwMl8wMTIyXzIwNDJfNjI1Mw",
+  "idShortPath" : "Var3",
+  "api" : "DotAAS-V3"
+}, {
+  "uniqueId" : "6e7798eab4db82d879347a864f220c61e6a2bcebb07303f02e4720ef32411420",
+  "submodelEndpoint" : "http://aas-env:8081/submodels/aHR0cHM6Ly9leGFtcGxlLmNvbS9pZHMvc20vMDAwMl8wMTIyXzIwNDJfNjI1Mw",
+  "idShortPath" : "Var4",
+  "api" : "DotAAS-V3"
+}, {
+  "uniqueId" : "0d13a400c5e80e1705b78a6720d266ddebdb849d739d849bc5554ac5e2bd8bcd",
+  "submodelEndpoint" : "http://aas-env:8081/submodels/aHR0cHM6Ly9leGFtcGxlLmNvbS9pZHMvc20vMDAwMl8wMTIyXzIwNDJfNjI1Mw",
+  "idShortPath" : "Temperature",
+  "api" : "DotAAS-V3"
+}, {
+  "uniqueId" : "e6950ff5498e44b348dc8a023dc682a1bde9801450dd099eada54cd9cfb2771e",
+  "submodelEndpoint" : "http://aas-env:8081/submodels/aHR0cHM6Ly9leGFtcGxlLmNvbS9pZHMvc20vMDAwMl8wMTIyXzIwNDJfNjI1Mw",
+  "idShortPath" : "DynamicFloat",
+  "api" : "DotAAS-V3"
+}, {
+  "uniqueId" : "1d622216e716240786b73f35bf6ad1b1e779e7725354de107634c6913adfd5a8",
+  "submodelEndpoint" : "http://aas-env:8081/submodels/aHR0cHM6Ly9leGFtcGxlLmNvbS9pZHMvc20vMDAwMl8wMTIyXzIwNDJfNjI1Mw",
+  "idShortPath" : "MachineState",
+  "api" : "DotAAS-V3"
+} ]

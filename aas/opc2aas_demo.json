@@ -1,0 +1,70 @@
+{
+    "assetAdministrationShells": [
+        {
+            "idShort": "DemoOpc2Aas",
+            "id": "https://example.com/ids/sm/0002_0122_2042_5943",
+            "assetInformation": {
+                "assetKind": "Instance",
+                "globalAssetId": "https://example.com/ids/asset/6291_0122_2042_0171"
+            },
+            "submodels": [
+                {
+                    "type": "ExternalReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/0002_0122_2042_6253"
+                        }
+                    ]
+                }
+            ],
+            "modelType": "AssetAdministrationShell"
+        }
+    ],
+    "submodels": [
+        {
+            "idShort": "OpcDataSubmodel",
+            "id": "https://example.com/ids/sm/0002_0122_2042_6253",
+            "kind": "Instance",
+            "submodelElements": [
+                {
+                    "idShort": "Var1",
+                    "valueType": "xs:string",
+                    "modelType": "Property"
+                },
+                {
+                    "idShort": "Var2",
+                    "valueType": "xs:string",
+                    "modelType": "Property"
+                },
+                {
+                    "idShort": "Var3",
+                    "valueType": "xs:string",
+                    "modelType": "Property"
+                },
+                {
+                    "idShort": "Var4",
+                    "valueType": "xs:string",
+                    "modelType": "Property"
+                },
+                {
+                    "idShort": "Temperature",
+                    "valueType": "xs:string",
+                    "modelType": "Property"
+                },
+                {
+                    "idShort": "DynamicFloat",
+                    "valueType": "xs:string",
+                    "modelType": "Property"
+                },
+                {
+                    "idShort": "MachineState",
+                    "valueType": "xs:string",
+                    "modelType": "Property"
+                }
+            ],
+            "modelType": "Submodel"
+        }
+    ],
+    "conceptDescriptions": []
+}

@@ -1,0 +1,64 @@
+[ {
+  "uniqueId" : "37dbc2c43952ec5a6feac58681ed7188938d78b8ba19fc250f497285a54d575f",
+  "serverUrl" : "opcserver",
+  "serverPort" : 4840,
+  "pathToService" : "",
+  "nodeInformation" : "ns=2;i=4",
+  "username" : "test",
+  "password" : "test",
+  "requestPublishInterval" : 100
+}, {
+  "uniqueId" : "5580b4ecedafd643fbc50ff9987f364f7d212c31d45447dd5ea9f7d2cb16b5bd",
+  "serverUrl" : "opcserver",
+  "serverPort" : 4840,
+  "pathToService" : "",
+  "nodeInformation" : "ns=2;s=MyStringNodeIdVar2",
+  "username" : "test",
+  "password" : "test",
+  "requestPublishInterval" : 100
+}, {
+  "uniqueId" : "dd828e0f15865bc769e1454641d3375500c3b71bb0ef27c5649ded3d2e4b69c7",
+  "serverUrl" : "opcserver",
+  "serverPort" : 4840,
+  "pathToService" : "",
+  "nodeInformation" : "ns=2;g=b25e7f5b-00be-4c5f-a8f3-1a6101c8600b",
+  "username" : "test",
+  "password" : "test",
+  "requestPublishInterval" : 100
+}, {
+  "uniqueId" : "1a45de690c0440e272b761dc5ed69456e9ef644e60b8ecbaaf1ce0ee32bdd71b",
+  "serverUrl" : "opcserver",
+  "serverPort" : 4840,
+  "pathToService" : "",
+  "nodeInformation" : "ns=2;b=TXlCaW5hcnlOb2RlSWRWYXI0",
+  "username" : "test",
+  "password" : "test",
+  "requestPublishInterval" : 100
+}, {
+  "uniqueId" : "92c4d5a4c4735ad02b63342bf1446e0a9bc3f277d151c16f638da8bebaacda37",
+  "serverUrl" : "opcserver",
+  "serverPort" : 4840,
+  "pathToService" : "",
+  "nodeInformation" : "ns=2;i=6",
+  "username" : "test",
+  "password" : "test",
+  "requestPublishInterval" : 100
+}, {
+  "uniqueId" : "35e1b99f0166175f5652d6653ed9c1d278cc7484390395e029056c28eeb09e39",
+  "serverUrl" : "opcserver",
+  "serverPort" : 4840,
+  "pathToService" : "",
+  "nodeInformation" : "ns=2;i=10",
+  "username" : "test",
+  "password" : "test",
+  "requestPublishInterval" : 100
+}, {
+  "uniqueId" : "700c32368d50fac34ff7553eeca313f47c972591ac6cb92cb1a616e2f27354ea",
+  "serverUrl" : "opcserver",
+  "serverPort" : 4840,
+  "pathToService" : "",
+  "nodeInformation" : "ns=2;i=13",
+  "username" : "test",
+  "password" : "test",
+  "requestPublishInterval" : 100
+} ]

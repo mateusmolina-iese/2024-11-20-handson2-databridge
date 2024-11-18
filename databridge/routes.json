@@ -1,0 +1,32 @@
+[ {
+  "datasource" : "37dbc2c43952ec5a6feac58681ed7188938d78b8ba19fc250f497285a54d575f",
+  "transformers" : [ "dataValueToJson", "jsonataExtractValue" ],
+  "datasinks" : [ "a0fe8bc869602673f1b793dc6aa4be90101d4576aebdafae824e599de2fdbbf9" ],
+  "trigger" : "event"
+}, {
+  "datasource" : "5580b4ecedafd643fbc50ff9987f364f7d212c31d45447dd5ea9f7d2cb16b5bd",
+  "transformers" : [ "dataValueToJson", "jsonataExtractValue" ],
+  "datasinks" : [ "a176d0f717ca68c7217e66b064b84261758c7efcc6c05d9210f1b9c8405ab0d0" ],
+  "trigger" : "event"
+}, {
+  "datasource" : "dd828e0f15865bc769e1454641d3375500c3b71bb0ef27c5649ded3d2e4b69c7",
+  "transformers" : [ "dataValueToJson", "jsonataExtractValue" ],
+  "datasinks" : [ "1eb86d10b97315c1c4794f506ebd3edd1be1ca8ddc0c02199791d3746f530a29" ],
+  "trigger" : "event"
+}, {
+  "datasource" : "92c4d5a4c4735ad02b63342bf1446e0a9bc3f277d151c16f638da8bebaacda37",
+  "transformers" : [ "dataValueToJson", "jsonataExtractValue" ],
+  "datasinks" : [ "0d13a400c5e80e1705b78a6720d266ddebdb849d739d849bc5554ac5e2bd8bcd" ],
+  "trigger" : "event"
+}, {
+  "datasource" : "35e1b99f0166175f5652d6653ed9c1d278cc7484390395e029056c28eeb09e39",
+  "transformers" : [ "dataValueToJson", "jsonataExtractValue" ],
+  "datasinks" : [ "e6950ff5498e44b348dc8a023dc682a1bde9801450dd099eada54cd9cfb2771e" ],
+  "trigger" : "event"
+}, {
+  "datasource" : "700c32368d50fac34ff7553eeca313f47c972591ac6cb92cb1a616e2f27354ea",
+  "transformers" : [ "dataValueToJson", "jsonataExtractValue" ],
+  "datasinks" : [ "1d622216e716240786b73f35bf6ad1b1e779e7725354de107634c6913adfd5a8" ],
+  "trigger" : "event"
+} 
+]
